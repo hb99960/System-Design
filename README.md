@@ -8,6 +8,7 @@ This repository contains the **source code** and **notes** from our System Desig
 - 📝 Detailed notes and summaries
 - ⚙️ Real-world architecture patterns
 - 🔍 Concepts such as:
+  - Object Oriented Programming 
   - Load Balancing
   - Caching
   - Database Sharding
