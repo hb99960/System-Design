@@ -1,9 +1,3 @@
-# NSD Evaluation - 1 (1)
-
-Here’s a well-defined **problem statement** based on the routing strategy example:
-
----
-
 ## Problem Statement: Route Navigator Using Strategy Design Pattern
 
 ### **Context:**
