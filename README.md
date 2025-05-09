@@ -24,6 +24,8 @@ Anyone looking to strengthen their **System Design fundamentals** — especially
 - Backend engineers
 - Candidates preparing for tech interviews
 
+Students of NSD405 Course : Block 43, Block 44, Block 45
+
 ## 📁 Structure
 
 
