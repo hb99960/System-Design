@@ -7,6 +7,7 @@ This repository contains the **source code** and **notes** from our System Desig
 - ✅ Source code examples from each session
 - 📝 Detailed notes and summaries
 - ⚙️ Real-world architecture patterns
+    - [Parking Lot Problem](https://github.com/hb99960/ParkingLot) 
 - 🔍 Concepts such as:
   - Object Oriented Programming 
   - Load Balancing
