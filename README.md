@@ -11,7 +11,8 @@ This repository contains the **source code** and **notes** from our System Desig
 - 1 Pager Revision Notes of each Design Pattern
 - Revision / Recalling Frameworks
 - ⚙️ Real-world architecture patterns
-    - [Parking Lot Problem](https://github.com/hb99960/ParkingLot) 
+    - [Parking Lot Problem](https://github.com/hb99960/ParkingLot)
+    - [Elevator System Design](https://github.com/hb99960/System-Design/tree/main/S11)
 - 🔍 Concepts such as:
   - Object Oriented Programming
   - SOLID Principles
