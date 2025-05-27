@@ -52,6 +52,8 @@ Students of NSD405 Course : Block 43, Block 44, Block 45
 3. [Mermaid](https://mermaid.js.org/)
 4. [draw.io](https://app.diagrams.net/)
 5. [Head First Design Pattern](https://archive.org/details/head-first-design)
+6. [AWS Educate](https://www.awseducate.com/signin/SiteLogin?language=en_US)
+
 
 [Articles that I refer from time to time](https://github.com/hb99960/Resources/blob/main/README.md)
 
